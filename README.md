@@ -1,13 +1,20 @@
 My first picture.  
 
+
 <img width="197" alt="Screenshot 2025-03-28 221607" src="https://github.com/user-attachments/assets/2f25ecd2-3abf-4ea8-a238-de8367c5d80a" />
 
+
 My second picture.
+
+
 <img width="730" alt="Screenshot 2025-03-31 195218" src="https://github.com/user-attachments/assets/1b9822e0-22f4-4a41-9dba-07a9d62a7a8f" />
+
 
 My third picture.
 
+
 <img width="710" alt="Screenshot 2025-03-31 195345" src="https://github.com/user-attachments/assets/58970dab-3fc4-470d-a7f8-791acfdd7289" />
+
 
 Meal Recommendation App: Overview, Design, and Development
 
@@ -65,6 +72,7 @@ Future Enhancements: Potential integration with automated deployment pipelines.
 
 Conclusion
 The Meal Recommendation App leverages YAML for configuration management and GitHub for version control and automation. YAML simplifies structured data handling, while GitHub streamlines collaboration and CI/CD workflows. By integrating these technologies, the app ensures efficiency, scalability, and maintainability, making it a valuable tool for users looking for quick and creative meal ideas.
+
 References
 DataCamp. (2023). What is YAML? Understanding the Basics, Syntax, and Use Cases. Retrieved from https://www.datacamp.com/blog/what-is-yaml
 Digital Regenesys. (2023). What Is GitHub? Explore Uses, Features & Key Benefits. Retrieved from https://www.digitalregenesys.com/blog/what-is-github
